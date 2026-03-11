@@ -28,6 +28,8 @@ body{
     min-height: 100vh;
     width: 100%;
     color: white;
+    background-repeat: no-repeat;
+    background-size: cover; 
 }
 
 .odin-logo{
